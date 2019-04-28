@@ -2,7 +2,7 @@
  * Nade Training Script
  * by S0lll0s, Bidj, Rurre and Mellet
  * USAGE:
- *      script_execute nadetraining
+ *	script_execute nadetraining
  *	script nadeSetup()
  * 	bind "rctrl" "script nadeSavePos()"
  *	bind "ralt" "script nadePause()"
