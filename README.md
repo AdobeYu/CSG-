@@ -1,4 +1,4 @@
-### <center>CSGO-config</center>
+## CSGO-config
 #### ./Counter-Strike Global Offensive/csgo/cfg
   | cfg | 数量 |
   |:--------------|:-:|
