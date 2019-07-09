@@ -1,4 +1,4 @@
-### CSGO-config
+<center>### CSGO-config</center>
 #### cfg文件夹
   | cfg | 数量 |
   |:---------------|:-:|
