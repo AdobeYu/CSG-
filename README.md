@@ -1,5 +1,5 @@
-<center>### CSGO-config</center>
-#### cfg文件夹
+### <center>CSGO-config</center>
+#### ./Counter-Strike Global Offensive/csgo/cfg
   | cfg | 数量 |
   |:---------------|:-:|
   |1v1 cfg | 4 |
